@@ -5,8 +5,8 @@ public void bark()
 }
 public static void main(String[] args) {
 Meow m=new Meow();
-System.out.println("Meow Meow Ninja!");
-m.bark();
+System.out.println("Meow Meow Ninja!");//racist cat
+m.bark();//use if animal is dog 
 }
 }
 
